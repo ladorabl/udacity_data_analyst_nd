@@ -1,0 +1,13 @@
+gapminder
+cell phone subscribers
+computer communications and other services
+broadband subscribers
+internet users
+number of people not using internet
+secure internet servers
+income
+survey mean consumption or income per capita, total population
+
+cost of business start-up proceduers
+ease of doing business index
+medium and high-tech industry valued added
