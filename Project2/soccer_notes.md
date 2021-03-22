@@ -36,9 +36,13 @@
 # were there any players that played all 8 seasons?
 - s12 Yes
 # most traded player
-# which player had the most goals, in which season?
-# What teams improved the most over the time period?
+- s13. Sergio Floccari was the most traded player
+# which players had the most goals/assists?
+- s15
+# which players had the most goals, per season?
+- s16
 # Which players had the most penalties
+# What teams improved the most over the time period?
 # what team attributes lead to the most victories?
 # Which league has the best teams?
 # average points per game
