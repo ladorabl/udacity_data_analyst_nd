@@ -44,6 +44,7 @@
 # is the foulcommit data accurate?
 - s17
 # Which players had the most penalties
+- s18
 # What teams improved the most over the time period?
 # what team attributes lead to the most victories?
 # Which league has the best teams?
