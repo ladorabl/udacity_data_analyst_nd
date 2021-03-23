@@ -41,6 +41,8 @@
 - s15
 # which players had the most goals, per season?
 - s16
+# is the foulcommit data accurate?
+- s17
 # Which players had the most penalties
 # What teams improved the most over the time period?
 # what team attributes lead to the most victories?
@@ -49,3 +51,5 @@
 # field with best home court advantage
 # verify outliers theory. what is the age of 
 # is there a correlation between fouls and wins or losses?
+# win rate home vs away correlation?
+# 
