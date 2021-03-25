@@ -45,6 +45,9 @@
 - s17
 # Which players had the most penalties
 - s18
+# what kinds of penalties are there, and their counts
+## foulcommit and card columns
+- s19
 # What teams improved the most over the time period?
 # what team attributes lead to the most victories?
 # Which league has the best teams?
@@ -53,4 +56,11 @@
 # verify outliers theory. what is the age of 
 # is there a correlation between fouls and wins or losses?
 # win rate home vs away correlation?
-# 
+
+# Tools
+# quick xml column reviewer 
+- h1
+# view columns minified (for long column lists)
+- h2
+#  quick xml column parser to see value counts of xpath values in a dictionary 
+- h3
