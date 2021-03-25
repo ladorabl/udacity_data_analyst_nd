@@ -46,8 +46,26 @@
 # Which players had the most penalties
 - s18
 # what kinds of penalties are there, and their counts
+- h3 tool
+- s20 p1,p2
+# which players have the most penalties per season?
+- s21
+# do all fouls have cards associated with them?
+- s22
+- no. match_id = 3656
+- https://www.quora.com/What-is-the-difference-between-a-foul-in-soccer-and-a-yellow-or-red-card
+# Fix match_cards since some player1  values are invalid (missing or is 'Unknown player') 
+- s23 datafix
+# which are the most violent players?
+## Are there any matches were a player had 3 card_types in a single match?
+- s24
+- m_id(21846)     p_id(33586      3)
+# top 10 matches with most fouls
+- s25
+# top 10 players with most fouls 
+- s26
 ## foulcommit and card columns
-- s19
+- m2
 # What teams improved the most over the time period?
 # what team attributes lead to the most victories?
 # Which league has the best teams?
@@ -56,11 +74,35 @@
 # verify outliers theory. what is the age of 
 # is there a correlation between fouls and wins or losses?
 # win rate home vs away correlation?
+# best goalie?
+# what is the correlation of goalie rating vs win rate or championship rate?
+# how many matches have missing or probably incorrect data?
+
 
 # Tools
 # quick xml column reviewer 
 - h1
+```
+col = 'cross'
+quick_xml_column_reviewer(col,match_detail)
+```
 # view columns minified (for long column lists)
 - h2
 #  quick xml column parser to see value counts of xpath values in a dictionary 
 - h3
+# misc notes
+# What is home_player_X1 / home_player_Y1 mean?
+- m1
+https://www.kaggle.com/hugomathien/soccer/discussion/80756
+
+# European Soccer Database Supplementary Data
+- m2
+https://www.kaggle.com/jiezi2004/soccer
+
+# explanation of alot of the columns
+- m3
+http://www.football-data.co.uk/notes.txt
+
+# types of fouls and their severities
+- m4
+https://www.ducksters.com/sports/soccer/rules_fouls.php
