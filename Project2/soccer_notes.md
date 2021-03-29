@@ -1,3 +1,11 @@
+# Data Setup / Recovery
+- d1 . imports
+- d2 . sqllite db setup
+- d3. match_detail 
+
+# Preview Database Tables
+- i1
+
 # Number of Leagues / countries
 - s1. 11
 # number of teams
@@ -18,7 +26,7 @@
 - s6
 # did any team play in more than one league?
 - s7. no
-# how many players are there for the entire dataset?
+# how many players are there for the entire dataset?gg
 - s8. 11060 
 # Does match table refer to fifa id or api id?
 - s9. non-fifa api ida, player_api_id
@@ -64,6 +72,10 @@
 - s25
 # top 10 players with most fouls 
 - s26
+
+# for each team, what was the the number of wins per season?
+- s27
+
 ## foulcommit and card columns
 - m2
 # What teams improved the most over the time period?
@@ -77,6 +89,9 @@
 # best goalie?
 # what is the correlation of goalie rating vs win rate or championship rate?
 # how many matches have missing or probably incorrect data?
+# try to graph wins or score per stage for a given team
+- g1 pending
+
 
 
 # Tools
@@ -106,3 +121,19 @@ http://www.football-data.co.uk/notes.txt
 # types of fouls and their severities
 - m4
 https://www.ducksters.com/sports/soccer/rules_fouls.php
+
+
+# TODO 
+- Organize the insights by grouping 
+ - General Insights
+ - League Insights
+ - Cross disiplinary insights
+  - ie, most traded players 
+ - Team Insights
+ - Player Insights
+ - Season Insights
+ - Insights about the game as a NOOB
+    - 2 yellow cards is a red card, thats why I was unable to find a red card and 2 yellow cards for a given player
+ - explain the reference tags heuristics / naming convention
+   - 
+ 
