@@ -2,7 +2,8 @@
 - d1 . imports
 - d2 . sqllite db setup
 - d3. match_detail 
-
+- d4. player_match
+- d5. player
 # Preview Database Tables
 - i1
 
@@ -74,7 +75,7 @@
 - s26
 
 # for each team, what was the the number of wins per season?
-- s27
+- s27 not done
 
 ## foulcommit and card columns
 - m2
