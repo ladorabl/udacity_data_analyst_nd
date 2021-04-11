@@ -77,6 +77,10 @@
 # for each team, what was the the number of wins per season?
 - s27 not done
 
+# which metrics matter most for a soccer team to win the stage?
+# last stage winners per season
+
+
 ## foulcommit and card columns
 - m2
 # What teams improved the most over the time period?
