@@ -78,6 +78,8 @@
 - s27 not done
 
 # which metrics matter most for a soccer team to win the stage?
+# What is the last stage per season per league
+- s28
 # last stage winners per season
 
 
