@@ -81,7 +81,11 @@
 # What is the last stage per season per league
 - s28
 # last stage winners per season
-
+- incorrect hypthesis based on prior misunderstanding of the data
+# I learned that the last stage of the season doesn't mean it's the final match of a tournnament, I must look for game success as an aggregate of all wins per team per season
+- s29
+# team wins per season
+- s30
 
 ## foulcommit and card columns
 - m2
