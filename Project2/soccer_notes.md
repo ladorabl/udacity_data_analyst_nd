@@ -4,6 +4,7 @@
 - d3. match_detail 
 - d4. player_match
 - d5. player
+- d6. team_country
 # Preview Database Tables
 - i1
 
@@ -75,21 +76,27 @@
 - s26
 
 # for each team, what was the the number of wins per season?
-- s27 not done
+- s27 (answered by https://knowledge.udacity.com/questions/563765)
+# get total points per team per season
+- s29
 
 # which metrics matter most for a soccer team to win the stage?
 # What is the last stage per season per league
-- s28
+- s28 not done yet
 # last stage winners per season
 - incorrect hypthesis based on prior misunderstanding of the data
 # I learned that the last stage of the season doesn't mean it's the final match of a tournnament, I must look for game success as an aggregate of all wins per team per season
 - s29
-# team wins per season
+# best 3 teams per league per season
 - s30
+# best 1 teams per league per season
+- s31
+- Filter s31 by country name to look at  league trends
 
 ## foulcommit and card columns
 - m2
 # What teams improved the most over the time period?
+- s32
 # what team attributes lead to the most victories?
 # Which league has the best teams?
 # average points per game
